@@ -22,7 +22,132 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^0.1.2
+  cupertino_icons: ^0.1.3
+
+  #############################START SVG#############################
+  #An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
+  #url https://pub.dev/packages/flutter_svg#-installing-tab-
+  #install
+  #flutter_svg: ^0.17.3+1
+  #############################END SVG#############################
+
+  #############################START localization#############################
+  #Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter.
+  #url https://pub.dev/packages/flutter_translate
+  #install
+  #flutter_translate: ^1.6.0
+  #############################END localization#############################
+
+  #############################START localization#############################
+  #Flutter Translate is a fully featured localization / internationalization (i18n) library for Flutter.
+  #url https://pub.dev/packages/flutter_translate
+  #install
+  #flutter_translate: ^1.6.0
+  #############################END localization#############################
+
+  #############################START dartz#############################
+  #Functional Programming in Dart. Purify your Dart code using efficient immutable data structures, monads, lenses and other FP tools.
+  #url https://pub.dev/packages/dartz
+  #install
+  #dartz: ^0.8.9
+  #############################END dartz#############################
+
+  #############################START loading indicators#############################
+  #A collection of loading indicators animated with flutter. Heavily inspired by @tobiasahlin's SpinKit.
+  #url https://pub.dev/packages/flutter_spinkit
+  #install
+  #flutter_spinkit: "^4.1.2"
+  #############################END loading indicators#############################
+
+  #############################START Swiper Image#############################
+  #The best swiper(carousel) for flutter, with multiple layouts, infinite loop. Compatible with Android & iOS.
+  #url https://pub.dev/packages/flutter_swiper
+  #install
+  #flutter_swiper: ^1.1.6
+  #############################END Swiper Image#############################
+
+  #############################START onboarding#############################
+  #A flutter package which help developer in creating a onboarding screens of their app.
+  #url https://pub.dev/packages/flutter_onboarding_screen
+  #install
+  #flutter_onboarding_screen: ^0.0.2
+  #############################END onboarding#############################
+
+  #############################START font size#############################
+  #A flutter plugin for adapting screen and font size.Guaranteed to look good on different models
+  #url https://pub.dev/packages/flutter_screenutil
+  #install
+  #flutter_screenutil: ^1.1.0
+  #############################END font size#############################
+
+  #############################START r_flutter#############################
+  #Generate constants for resources which require using them as a String like fonts and assets.
+  #url https://pub.dev/packages/r_flutter
+  #install
+  #r_flutter: ^0.6.0
+  #############################END r_flutter#############################
+
+  #############################START Dialog With Animation#############################
+  #Flutter package to show beautiful dialogs with animations as simply as possible.
+  #url https://pub.dev/packages/awesome_dialog
+  #install
+  #awesome_dialog: ^0.1.3
+  #############################END Dialog With Animation#############################
+
+  #############################START Progress Loading#############################
+  #Native hud loading dialogs. (show loading hud with text or without , you can customize colors and background)
+  #url https://pub.dev/packages/native_progress_hud
+  #install
+  #native_progress_hud: ^1.0.3
+  #############################END Progress Loading#############################
+
+  #############################START pull to refresh#############################
+  #a widget provided to the flutter scroll component drop-down refresh and pull up load.
+  #url https://pub.dev/packages/pull_to_refresh
+  #install
+  #  pull_to_refresh: ^1.5.8
+  #############################END pull to refresh#############################
+
+  #############################START slidable#############################
+  #A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
+  #url https://pub.dev/packages/flutter_slidable
+  #install
+  #flutter_slidable: ^0.5.4
+  #############################END slidable#############################
+
+  #############################START date time#############################
+  #Jiffy is a date dart package inspired by momentjs for parsing, manipulating and formatting dates
+  #url https://pub.dev/packages/jiffy
+  #install
+  #jiffy: ^3.0.1
+  #############################END date time#############################
+
+  #############################START share social media#############################
+  #Share social media plugin, share Line, Twitter, FB, Instagram and more!, I try develop step for step. Any suggestion please contact me.
+  #url https://pub.dev/packages/share_social_media_plugin
+  #install
+  #share_social_media_plugin: ^1.1.5
+  #############################END share social media#############################
+
+  #############################START share social media#############################
+  #This package contains formatters for international phone numbers, credit / debit cards, currencies and a masked formatter
+  #url https://pub.dev/packages/flutter_multi_formatter
+  #install
+  #flutter_multi_formatter: ^1.1.1
+  #############################END share social media#############################
+
+  #############################START Animation#############################
+  # animation of the flutter.
+  #url https://medium.com/@ruddns8213/how-to-flare-a-flutter-create-animation-675f995db3b1
+  #install
+  #flare_flutter: ^1.8.3
+  #############################END Animation#############################
+
+  #############################START OPEN SOURCE PROJECT#############################
+  #Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app
+  # website https://www.getflutter.dev
+  # github https://github.com/ionicfirebaseapp/getflutter
+  #############################END OPEN SOURCE PROJECT#############################
 
 dev_dependencies:
   flutter_test:
